@@ -1,10 +1,14 @@
 **TransLingua – AI-Powered Multi-Language Translator**
+
 TransLingua is a web-based AI-powered language translation application built using Streamlit and Google Gemini Generative AI.
 It allows users to translate text between multiple languages through a simple and interactive interface.
 
 This project demonstrates the practical use of Generative AI, cloud-based APIs, and secure software development practices.
 
+---
+
 **Project Objectives**
+
 To build an AI-powered language translation system
 To integrate Google Gemini Generative AI with a web application
 To provide a clean and user-friendly interface using Streamlit
@@ -24,7 +28,9 @@ German
 Chinese
 (Note: More languages can be added easily if required.)
 
-Technologies Used
+---
+
+**Technologies Used**
 Python
 Streamlit
 Google Gemini Generative AI
@@ -41,7 +47,10 @@ TransLingua/
 
 ├── README.md
 
+---
+
 **How to Run the Project**
+
 1️. Clone the repository
 git clone https://github.com/VijayVardhan33/Translingua.git
 
@@ -61,15 +70,24 @@ streamlit run translang.py
 OR (safer version, always works):
 python -m streamlit run translang.py
 
+---
+
 **Demo Video Demo Video Link:**
+
 (https://drive.google.com/file/d/1lIvZHtfvcawjF2qS91x_63fxFabHilKY/view?usp=sharing)
 
+---
+
 **The demo video shows:**
+
 Application execution
 Text input and language selection
 Generated translated output
 
+---
+
 **Use Cases**
+
 Global business communication
 
 Academic research collaboration
@@ -78,8 +96,14 @@ Travel and tourism assistance
 
 Language learning support
 
+---
+
 **Conclusion**
+
 TransLingua demonstrates how Generative AI can be effectively used to overcome language barriers through a secure, scalable, and user-friendly web application. This project reflects real-world AI integration and follows best practices suitable for academic and internship evaluation.
 
+---
+
 **Author**
+
 Konda Vijay Vardhan
