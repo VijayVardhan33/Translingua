@@ -44,14 +44,18 @@ TransLingua/
 How to Run the Project
 1️. Clone the repository
 git clone https://github.com/VijayVardhan33/Translingua.git
+
 2.Create virtual environment (one time)
 python -m venv venv
+
 3.Activate virtual environment
 venv\Scripts\activate
 You’ll see (venv) in terminal — that means it worked
+
 4.Install dependencies (VERY IMPORTANT)
 pip install -r requirements.txt
 (Do this once after activating venv)
+
 5.Run the Streamlit app
 streamlit run translang.py
 OR (safer version, always works):
